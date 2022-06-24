@@ -1,0 +1,2 @@
+E:\Training\Socket Programing\Server\server\x64\Release\server.exe
+E:\Manokamna\ipc\Socket Programing\Server\server\x64\Release\server.exe

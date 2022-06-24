@@ -1,0 +1,2 @@
+E:\Training\Socket Programing\Client\Client\x64\Release\Client.exe
+E:\Manokamna\ipc\Socket Programing\Client\Client\x64\Release\Client.exe
